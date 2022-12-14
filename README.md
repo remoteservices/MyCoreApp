@@ -19,3 +19,7 @@ code completion, parameter info, quick info, and member lists. IntelliSense
 features are sometimes called by other names such as "code completion", 
 "content assist", and "code hinting."
 
+Github
+
+https://github.com/remoteservices/MyCoreApp
+
