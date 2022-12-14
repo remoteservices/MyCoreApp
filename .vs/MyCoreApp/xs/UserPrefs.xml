@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{01AC1B36-FB02-4D14-AB95-7195EFDC194F}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyCoreApp/Pages/Index.cshtml">
+    <Files>
+      <File FileName="MyCoreApp/Program.cs" Line="1" Column="1" />
+      <File FileName="MyCoreApp/Pages/Index.cshtml" Line="12" Column="1" />
+      <File FileName="MyCoreApp/Pages/Index.cshtml.cs" Line="31" Column="2" />
+      <File FileName="MyCoreApp/wwwroot/css/site.css" Line="23" Column="2" />
+      <File FileName="MyCoreApp/Pages/Privacy.cshtml" Line="8" Column="64" />
+      <File FileName="MyCoreApp/Pages/Privacy.cshtml.cs" Line="3" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyCoreApp" expanded="True">
+            <Node name="MyCoreApp" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Index.cshtml" expanded="True" />
+                <Node name="Privacy.cshtml" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MyCoreApp PreferredExecutionTarget="/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
